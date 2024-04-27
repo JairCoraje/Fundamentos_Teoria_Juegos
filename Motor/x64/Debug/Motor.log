@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  MainGame.cpp
+C:\Users\Jair\source\repos\Motor\Motor\MainGame.cpp(52,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Generando código...
+  Motor.vcxproj -> C:\Users\Jair\source\repos\Motor\x64\Debug\Motor.exe
